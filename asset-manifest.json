@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/front-end-task-job-fair/static/css/main.0a1969bf.css",
+    "main.js": "/front-end-task-job-fair/static/js/main.ad758f3d.js",
+    "static/js/453.ed3810f9.chunk.js": "/front-end-task-job-fair/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/front-end-task-job-fair/index.html",
+    "main.0a1969bf.css.map": "/front-end-task-job-fair/static/css/main.0a1969bf.css.map",
+    "main.ad758f3d.js.map": "/front-end-task-job-fair/static/js/main.ad758f3d.js.map",
+    "453.ed3810f9.chunk.js.map": "/front-end-task-job-fair/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a1969bf.css",
+    "static/js/main.ad758f3d.js"
+  ]
+}
